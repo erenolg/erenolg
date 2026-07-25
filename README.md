@@ -1,29 +1,14 @@
-<!--
-**erenolg/erenolg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hi, I'm Eren 👋
 
-ML Research Engineer @ ITU AI Research and Application Center · MSc Computer Engineering @ Istanbul Technical University
+Currently AI Research Engineer · MSc Student @ Istanbul Technical University
 
-I work on Computer Vision and Graph ML. My real interest is bridging the research and real world impact. I currently study on an industry-funded metallurgical microstructure analysis platform, and continue my MSc focused on graph-based recommender systems.
+My interest is building end-to-end ML systems. I am currently developing a multidisciplinary metallurgical microstructure analysis platform.
 
 ---
 
-**Focus areas:** Graph Generation & Representation Learning · Material Microstructure Segmentation · exploring RAG / LLM tooling (LangChain, ChromaDB, MCP)
-
 **Toolbox:** PyTorch · scikit-learn · OpenCV · FastAPI · Docker
+
+**Exploring:** RAG / LLM tooling (LangChain, ChromaDB, MCP) · graph-based recommender systems
 
 ---
 
@@ -45,4 +30,4 @@ I work on Computer Vision and Graph ML. My real interest is bridging the researc
 
 ### 📫 Reach me
 
-[LinkedIn](#) · [Email](mailto:olug20@itu.edu.tr)
+[LinkedIn](https://www.linkedin.com/in/eren-olug/) · [Email](mailto:olug20@itu.edu.tr)
