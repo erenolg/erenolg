@@ -1,11 +1,15 @@
 ### Hi, I'm Eren 👋
+
 Currently AI Research Engineer · MSc Student @ Istanbul Technical University
 My interest is building research-oriented ML systems. I am currently developing a multidisciplinary metallurgical microstructure analysis platform.
+
 ---
+
 **Toolbox:** PyTorch · scikit-learn · LangChain · OpenCV · FastAPI · Docker
 **Interested in:** RAG / LLM tooling (LangChain, ChromaDB, MCP) · graph-based recommender systems
 **Research:** [Scholar](https://scholar.google.com/citations?user=a5KQnIQAAAAJ&hl=tr)
 ---
+
 ### 🚀 Featured Projects
 
 **[TANGEM — Graph Generation via Temporal-Aware Biased Walks](https://github.com/erenolg/TANGEM-Graph-Generation-via-Temporal-Aware-Biased-Walks)** · *TMLR 2026*
